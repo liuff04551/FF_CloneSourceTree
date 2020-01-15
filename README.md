@@ -15,3 +15,5 @@ branch bash
 xxxxy bash
 
 source fenzhi
+
+source bash
