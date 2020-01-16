@@ -19,3 +19,5 @@ source fenzhi
 source bash
 
 vscode
+11111 vscode no 
+
