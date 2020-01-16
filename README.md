@@ -17,3 +17,5 @@ xxxxy bash
 source fenzhi
 
 source bash
+
+vscode
